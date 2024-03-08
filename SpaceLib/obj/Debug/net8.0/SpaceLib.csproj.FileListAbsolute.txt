@@ -1,0 +1,11 @@
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/SpaceLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/SpaceLib.AssemblyInfoInputs.cache
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/SpaceLib.AssemblyInfo.cs
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/SpaceLib.csproj.CoreCompileInputs.cache
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/bin/Debug/net8.0/SpaceLib.deps.json
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/bin/Debug/net8.0/SpaceLib.dll
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/bin/Debug/net8.0/SpaceLib.pdb
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/SpaceLib.dll
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/refint/SpaceLib.dll
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/SpaceLib.pdb
+/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/SpaceLib/obj/Debug/net8.0/ref/SpaceLib.dll

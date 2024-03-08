@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/MAUI/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSim/MAUI/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MAUI.app
